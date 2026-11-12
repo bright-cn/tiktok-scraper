@@ -8,7 +8,7 @@
 
 使用 Python 将 TikTok 个人资料、帖子、评论和 TikTok Shop 商品获取为 JSON。无需登录 TikTok，无需浏览器。基于 [Bright Data TikTok 爬虫工具 API](https://www.bright.cn/products/web-scraper/tiktok?utm_source=github&utm_medium=referral&utm_content=tiktok-scraper) 构建。
 
-使用 [Bright Data Python SDK](https://github.com/bright-cn/bright-data-sdk-python)。完整 API 文档：[TikTok 爬虫工具 API](https://docs.brightdata.com/products/scrapers/tiktok/introduction)。
+使用 [Bright Data Python SDK](https://github.com/bright-cn/sdk-python)。完整 API 文档：[TikTok 爬虫工具 API](https://docs.brightdata.com/products/scrapers/tiktok/introduction)。
 
 此外还提供：用于获取近期帖子的一键式 CLI，以及完全不需要 Python 的 [Bright Data CLI](#tiktok-mcp-服务器和-claude-code-技能)。
 
